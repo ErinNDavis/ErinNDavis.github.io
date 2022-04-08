@@ -1,7 +1,7 @@
 <h1> Erin Davis's Portfolio </h1>
 
 <h3> About Project </h3>
-  <p> This is my portfolio website designed to highlight the projects we have been working on in the MIT xPRO Full Stack Developer Professional Certificate program. I used bootstrap for the basic structure/design of this project and modified it to fit this projects requirements. </p> 
+  <p> This is my portfolio website designed to highlight the projects I worked on in the MIT xPRO Full Stack Developer Professional Certificate program as well as some that I have done on my own. I used bootstrap for the basic structure/design of this project and modified it to fit this projects requirements. </p> 
 
 <h3> Viewing This Project </h3>
   <p> Source Code: https://github.com/ErinNDavis/ErinNDavis.github.io </p>
