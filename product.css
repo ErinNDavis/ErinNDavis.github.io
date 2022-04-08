@@ -24,6 +24,19 @@
  * Dummy devices (replace them with your own or something else entirely!)
  */
 
+.intro-block {
+    background-image: linear-gradient(0deg, rgba(14, 31, 14, 0.384), rgba(85, 17, 17, 0.445)), url("product.jpg");
+    background-color: #1F2937;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #F9FAF8;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 .product-device {
   position: absolute;
   right: 10%;
